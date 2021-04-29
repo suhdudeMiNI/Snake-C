@@ -1,8 +1,3 @@
-//Oswiadczam, ze niniejsza praca stanowiaca 
-//podstawe do uznania osiagniecia efektow uczenia sie
-//z przedmitu SOP1 zostala wykonana przeze mnie samodzielnie.
-//Maksim Matchenia
-//308818
 
 #define _GNU_SOURCE
 #include <stdio.h>
